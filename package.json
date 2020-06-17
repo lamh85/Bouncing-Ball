@@ -1,0 +1,45 @@
+{
+  "name": "bouncing-ball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=13.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamh85/Bouncing-Ball.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-class-properties": "^7.4.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-styled-components": "^1.10.0",
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.11.2",
+    "jest": "^24.7.1",
+    "jest-styled-components": "^6.3.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.2.1"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.5.2",
+    "react-hot-loader": "^4.3.11",
+    "styled-components": "^4.2.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lamh85/Bouncing-Ball/issues"
+  },
+  "homepage": "https://github.com/lamh85/Bouncing-Ball#readme"
+}
