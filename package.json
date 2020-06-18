@@ -7,6 +7,7 @@
     "node": ">=13.12"
   },
   "scripts": {
+    "start": "webpack-dev-server --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
